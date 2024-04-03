@@ -29,8 +29,7 @@ Expense Tracker is a Java program designed to help users track their expenses an
 ---
 
 **Usage:**
-1. Compile the Java source files using the following commands:
-   ('javac ExpenseTracker.java','javac ExpenseDataFetcher.java')
+1. Compile the Java source files using the following commands: ('javac ExpenseTracker.java','javac ExpenseDataFetcher.java')
 3. Run the compiled programs using the following commands:
    ('java ExpenseTracker','java ExpenseDataFetcher')
 4. Follow the on-screen instructions to add expenses, save them to the database, and fetch/display expense data.
